@@ -1,5 +1,5 @@
 <!-- digital_clock.html -->
-<!DOCTYPE html>
+<!OCTYPE html>
 <html lang="fa">
 <head>
   <meta charset="UTF-8">
